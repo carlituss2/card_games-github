@@ -1,4 +1,4 @@
-## Desvendando o Mundo dos Card Games! 🃏
+## Desvendando o Mundo dos Card Games - Imersão Dev_ com Google Gemini
 
 **O que faz essa aplicação?**
 
